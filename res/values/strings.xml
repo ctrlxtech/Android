@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ctrlx</string>
+    
+    <string name="title_myaccount">My Account</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_devices">Devices</string>
+    <string name="title_backup">Bbackup</string>
+    <string name="title_share">Share</string>
+    <string name="title_forum">Forum</string>
+    <string name="title_help">Help</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_btn_tour">tour</string>
+    <string name="intro_btn_config">config</string>
+    <string name="img_desc">img description</string>
+    
+    <string name="login_email">Email Address</string>
+    <string name="login_pwd">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google+</string>
+    <string name="login_with_twitter">Login with Twitter</string>
+
+    <string name="facebook_app_id">957924974221159</string>
+    
+    <string name="firebase_url">www.firebase.com/ctrlx</string>
+</resources>

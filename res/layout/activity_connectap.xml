@@ -1,0 +1,31 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    >
+    <EditText 
+        android:id="@+id/config_et_ssid"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:hint="input ssid"/>
+    
+    <EditText 
+        android:id="@+id/config_et_pwd"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:hint="input pwd"/>
+    
+    <Button 
+        android:id="@+id/config_btn_connect"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="connect"/>
+    
+    <TextView 
+        android:id="@+id/config_tv_status"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+    
+</LinearLayout>
